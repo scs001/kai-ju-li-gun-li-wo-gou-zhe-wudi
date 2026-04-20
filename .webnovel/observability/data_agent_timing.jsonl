@@ -2,3 +2,4 @@
 {"timestamp": "2026-04-20T22:07:03.412432", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 2}
 {"timestamp": "2026-04-20T22:15:14.849063", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 7}
 {"timestamp": "2026-04-20T22:20:26.568202", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 3}
+{"timestamp": "2026-04-21T07:55:32.583083", "chapter": 3, "step": "data_write", "A_load_context": 120, "B_entity_extract": 8500, "C_disambiguation": 180, "D_state_index_write": 520, "E_summary_write": 95, "F_scene_chunking": 3400, "G_rag_index": 0, "H_style_sample": 0, "I_debt_interest": 0, "TOTAL": 12815, "bottlenecks_top3": [{"step": "B_entity_extract", "elapsed_ms": 8500, "ratio": 66.3}, {"step": "F_scene_chunking", "elapsed_ms": 3400, "ratio": 26.5}, {"step": "D_state_index_write", "elapsed_ms": 520, "ratio": 4.1}]}

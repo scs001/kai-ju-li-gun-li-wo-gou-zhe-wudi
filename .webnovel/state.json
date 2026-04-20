@@ -36,9 +36,9 @@
     "antagonist_level": "小反派→中反派→大反派（异界首领）"
   },
   "progress": {
-    "current_chapter": 2,
-    "total_words": 2041,
-    "last_updated": "2026-04-20 22:16:24",
+    "current_chapter": 3,
+    "total_words": 4041,
+    "last_updated": "2026-04-21",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": [
@@ -52,13 +52,13 @@
   "protagonist_state": {
     "name": "林尘",
     "power": {
-      "realm": "",
+      "realm": "淬体境",
       "layer": 1,
       "bottleneck": ""
     },
     "location": {
       "current": "青云宗-垃圾场",
-      "last_chapter": 2
+      "last_chapter": 3
     },
     "golden_finger": {
       "name": "金铲铲系统",
@@ -67,10 +67,20 @@
       "skills": []
     },
     "attributes": {
-      "精神力": "100/100"
+      "精神力": "65/100",
+      "异界结晶": "2/10"
     }
   },
-  "relationships": {},
+  "relationships": {
+    "林尘-孙昌": {
+      "type": "竞争",
+      "description": "孙昌嘲讽林尘"
+    },
+    "林尘-赵石": {
+      "type": "冲突",
+      "description": "赵石拦截林尘，威胁'你给我等着'"
+    }
+  },
   "disambiguation_warnings": [],
   "disambiguation_pending": [],
   "world_settings": {
@@ -157,6 +167,44 @@
         "description_density": "简洁，聚焦系统交互和心理活动",
         "system_revelation_style": "递进式揭示，层层剥开规则，符合谨慎型主角",
         "inner_monologue": "大量内心独白，展现谨慎思考和风险评估"
+      }
+    },
+    "3": {
+      "title": "第3章 垃圾场淘宝",
+      "word_count": 2000,
+      "scenes_count": 5,
+      "review_score": 87,
+      "entities": [
+        "林尘",
+        "孙昌",
+        "赵石",
+        "异界结晶碎片",
+        "金铲铲系统",
+        "巡逻执事"
+      ],
+      "locations": [
+        "青云宗-垃圾场"
+      ],
+      "first_appearance": [
+        "孙昌",
+        "赵石",
+        "异界结晶碎片"
+      ],
+      "hook": {
+        "type": "危机钩",
+        "content": "赵石拦截林尘，威胁'你给我等着'",
+        "strength": "medium"
+      },
+      "pattern": {
+        "opening": "场景描写开场",
+        "hook": "危机钩",
+        "emotion_rhythm": "平稳→紧张→化解",
+        "info_density": "medium"
+      },
+      "ending": {
+        "time": "午后",
+        "location": "青云宗-僻静角落",
+        "emotion": "谨慎警觉"
       }
     }
   },
