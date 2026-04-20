@@ -36,9 +36,9 @@
     "antagonist_level": "小反派→中反派→大反派（异界首领）"
   },
   "progress": {
-    "current_chapter": 1,
-    "total_words": 1851,
-    "last_updated": "2026-04-20 22:05:22",
+    "current_chapter": 2,
+    "total_words": 2041,
+    "last_updated": "2026-04-20 22:16:24",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": [
@@ -57,8 +57,8 @@
       "bottleneck": ""
     },
     "location": {
-      "current": "青云宗",
-      "last_chapter": 1
+      "current": "青云宗-垃圾场",
+      "last_chapter": 2
     },
     "golden_finger": {
       "name": "金铲铲系统",
@@ -66,7 +66,9 @@
       "cooldown": 0,
       "skills": []
     },
-    "attributes": {}
+    "attributes": {
+      "精神力": "100/100"
+    }
   },
   "relationships": {},
   "disambiguation_warnings": [],
@@ -89,6 +91,11 @@
       "chapters": "1-1",
       "report": "审查报告/第1-1章审查报告.md",
       "reviewed_at": "2026-04-20 17:03:12"
+    },
+    {
+      "chapters": "2-2",
+      "report": "审查报告/第2-2章审查报告.md",
+      "reviewed_at": "2026-04-20 22:16:24"
     }
   ],
   "chapter_meta": {
@@ -123,6 +130,33 @@
         "description_density": "环境描写简洁，动作描写到位",
         "system_revelation_style": "简洁直接，规则清晰，保留悬念",
         "inner_monologue": "适度内心独白，展现谨慎性格"
+      }
+    },
+    "2": {
+      "title": "第2章 系统的规则",
+      "word_count": 1900,
+      "scenes_count": 5,
+      "review_score": 91.5,
+      "entities": [
+        "林尘",
+        "金铲铲系统",
+        "异界结晶",
+        "神铸结晶",
+        "精神力"
+      ],
+      "locations": [
+        "青云宗-垃圾场",
+        "青云宗-意识深处"
+      ],
+      "first_appearance": [],
+      "style_score": 9.1,
+      "style_analysis": {
+        "narrative_pace": "节奏稳定，集中于系统规则探索，层层递进",
+        "emotional_arc": "好奇→焦躁→希望→沮丧→决意，递进合理",
+        "dialog_ratio": "几乎无对话，内心独白为主",
+        "description_density": "简洁，聚焦系统交互和心理活动",
+        "system_revelation_style": "递进式揭示，层层剥开规则，符合谨慎型主角",
+        "inner_monologue": "大量内心独白，展现谨慎思考和风险评估"
       }
     }
   },

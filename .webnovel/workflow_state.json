@@ -5,15 +5,15 @@
       "chapter_num": 1
     },
     "started_at": "2026-04-20T16:38:19.895516",
-    "last_heartbeat": "2026-04-20T16:58:36.895748",
+    "last_heartbeat": "2026-04-20T22:20:08.779573",
     "status": "running",
     "current_step": {
-      "id": "Step 3",
-      "name": "审查",
+      "id": "Step 6",
+      "name": "Git备份",
       "status": "running",
-      "started_at": "2026-04-20T16:45:08.136850",
-      "running_at": "2026-04-20T16:45:08.136850",
-      "attempt": 2,
+      "started_at": "2026-04-20T22:20:08.779560",
+      "running_at": "2026-04-20T22:20:08.779560",
+      "attempt": 4,
       "progress_note": null
     },
     "completed_steps": [
@@ -30,6 +30,84 @@
           "ok": true,
           "draft_file": "正文/第0001章-垃圾堆里的奇迹.md"
         }
+      },
+      {
+        "id": "Step 1",
+        "name": "Context Agent",
+        "status": "completed",
+        "started_at": "2026-04-20T22:08:17.608728",
+        "running_at": "2026-04-20T22:08:17.608728",
+        "attempt": 4,
+        "progress_note": null,
+        "completed_at": "2026-04-20T22:10:47.546685",
+        "artifacts": {
+          "ok": true
+        }
+      },
+      {
+        "id": "Step 2A",
+        "name": "正文起草",
+        "status": "completed",
+        "started_at": "2026-04-20T22:10:47.638421",
+        "running_at": "2026-04-20T22:10:47.638421",
+        "attempt": 4,
+        "progress_note": null,
+        "completed_at": "2026-04-20T22:12:15.521497",
+        "artifacts": {
+          "ok": true
+        }
+      },
+      {
+        "id": "Step 2B",
+        "name": "风格适配",
+        "status": "completed",
+        "started_at": "2026-04-20T22:12:15.614634",
+        "running_at": "2026-04-20T22:12:15.614634",
+        "attempt": 4,
+        "progress_note": null,
+        "completed_at": "2026-04-20T22:12:56.513794",
+        "artifacts": {
+          "ok": true
+        }
+      },
+      {
+        "id": "Step 3",
+        "name": "审查",
+        "status": "completed",
+        "started_at": "2026-04-20T22:12:56.605672",
+        "running_at": "2026-04-20T22:12:56.605672",
+        "attempt": 4,
+        "progress_note": null,
+        "completed_at": "2026-04-20T22:15:21.104766",
+        "artifacts": {
+          "ok": true
+        }
+      },
+      {
+        "id": "Step 4",
+        "name": "润色",
+        "status": "completed",
+        "started_at": "2026-04-20T22:15:21.198120",
+        "running_at": "2026-04-20T22:15:21.198120",
+        "attempt": 4,
+        "progress_note": null,
+        "completed_at": "2026-04-20T22:16:24.807895",
+        "artifacts": {
+          "ok": true
+        }
+      },
+      {
+        "id": "Step 5",
+        "name": "Data Agent",
+        "status": "completed",
+        "started_at": "2026-04-20T22:16:24.896943",
+        "running_at": "2026-04-20T22:16:24.896943",
+        "attempt": 4,
+        "progress_note": null,
+        "completed_at": "2026-04-20T22:20:08.689490",
+        "artifacts": {
+          "ok": true
+        }
       }
     ],
     "failed_steps": [
@@ -43,6 +121,17 @@
         "progress_note": null,
         "failed_at": "2026-04-20T16:44:01.490586",
         "failure_reason": "step_replaced_before_completion"
+      },
+      {
+        "id": "Step 3",
+        "name": "审查",
+        "status": "failed",
+        "started_at": "2026-04-20T16:45:08.136850",
+        "running_at": "2026-04-20T16:45:08.136850",
+        "attempt": 2,
+        "progress_note": null,
+        "failed_at": "2026-04-20T22:08:17.608717",
+        "failure_reason": "step_replaced_before_completion"
       }
     ],
     "pending_steps": [
@@ -54,7 +143,7 @@
       "Step 5",
       "Step 6"
     ],
-    "retry_count": 2,
+    "retry_count": 3,
     "artifacts": {
       "chapter_file": {},
       "git_status": {},
