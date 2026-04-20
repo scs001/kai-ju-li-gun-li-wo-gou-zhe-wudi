@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "title": "开局利滚利，我苟着成神",
+    "genre": "系统流+赛博朋克+高武+拯救世界",
+    "created_at": "2026-04-20",
+    "target_words": 400000,
+    "target_chapters": 200,
+    "golden_finger_name": "金铲铲系统",
+    "golden_finger_type": "英雄联盟云顶之弈风格复利系统",
+    "golden_finger_style": "克制",
+    "core_selling_points": "利滚利复利机制|神铸光芒暴露风险|谨慎vs暴露的矛盾",
+    "protagonist_structure": "单主角",
+    "heroine_config": "无女主",
+    "heroine_names": "",
+    "heroine_role": "",
+    "co_protagonists": "",
+    "co_protagonist_roles": "",
+    "antagonist_tiers": "小反派:宗门竞争者|中反派:人族内奸|大反派:异界先头部队首领",
+    "world_scale": "大陆级",
+    "factions": "宗门联盟统治，多宗门林立",
+    "power_system_type": "高武+赛博朋克化",
+    "social_class": "外门弟子→内门弟子→真传弟子→长老→掌门",
+    "resource_distribution": "异界结晶是核心硬通货，宗门贡献点是日常货币",
+    "gf_visibility": "仅主角可见",
+    "gf_irreversible_cost": "铸造时产生神铸光芒，持续3秒，所有敌人可定位主角位置",
+    "target_reader": "起点中文网/男性向",
+    "platform": "起点中文网",
+    "currency_system": "异界结晶（基础）→神铸结晶（高级）",
+    "currency_exchange": "",
+    "sect_hierarchy": "外门弟子→内门弟子→真传弟子→长老→掌门",
+    "cultivation_chain": "淬体境→炼气境→筑基境→金丹境→元婴境→化神境→大乘境→渡劫境",
+    "cultivation_subtiers": "每境9重"
+  },
+  "progress": {
+    "current_chapter": 0,
+    "total_words": 0,
+    "last_updated": "2026-04-20 16:24:40",
+    "volumes_completed": [],
+    "current_volume": 1,
+    "volumes_planned": []
+  },
+  "protagonist_state": {
+    "name": "林尘",
+    "power": {
+      "realm": "",
+      "layer": 1,
+      "bottleneck": ""
+    },
+    "location": {
+      "current": "",
+      "last_chapter": 0
+    },
+    "golden_finger": {
+      "name": "金铲铲系统",
+      "level": 1,
+      "cooldown": 0,
+      "skills": []
+    },
+    "attributes": {}
+  },
+  "relationships": {},
+  "disambiguation_warnings": [],
+  "disambiguation_pending": [],
+  "world_settings": {
+    "power_system": [],
+    "factions": [],
+    "locations": []
+  },
+  "plot_threads": {
+    "active_threads": [],
+    "foreshadowing": []
+  },
+  "review_checkpoints": [],
+  "chapter_meta": {},
+  "strand_tracker": {
+    "last_quest_chapter": 0,
+    "last_fire_chapter": 0,
+    "last_constellation_chapter": 0,
+    "current_dominant": "quest",
+    "chapters_since_switch": 0,
+    "history": []
+  }
+}
