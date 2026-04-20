@@ -36,9 +36,9 @@
     "antagonist_level": "小反派→中反派→大反派（异界首领）"
   },
   "progress": {
-    "current_chapter": 2,
-    "total_words": 2041,
-    "last_updated": "2026-04-20 22:16:24",
+    "current_chapter": 3,
+    "total_words": 4141,
+    "last_updated": "2026-04-21",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": [
@@ -67,11 +67,26 @@
       "skills": []
     },
     "attributes": {
-      "精神力": "100/100"
+      "精神力": "63/100"
     }
   },
-  "relationships": {},
-  "disambiguation_warnings": [],
+  "relationships": {
+    "zhao_san": {
+      "name": "赵三",
+      "type": "小反派",
+      "description": "青云宗外门弟子，淬体境二重，喜欢欺负底层师弟",
+      "first_appearance": 3,
+      "status": "active"
+    }
+  },
+  "disambiguation_warnings": [
+    {
+      "chapter": 3,
+      "entity": "赵三",
+      "issue": "新角色登场，小反派",
+      "confidence": 0.95
+    }
+  ],
   "disambiguation_pending": [],
   "world_settings": {
     "power_system": [],
@@ -157,6 +172,54 @@
         "description_density": "简洁，聚焦系统交互和心理活动",
         "system_revelation_style": "递进式揭示，层层剥开规则，符合谨慎型主角",
         "inner_monologue": "大量内心独白，展现谨慎思考和风险评估"
+      }
+    },
+    "3": {
+      "title": "第3章 垃圾场淘宝",
+      "word_count": 2100,
+      "scenes_count": 4,
+      "review_score": 84.5,
+      "entities": [
+        "青云宗",
+        "林尘",
+        "赵三",
+        "金铲铲系统",
+        "异界结晶",
+        "瓷器堆",
+        "宗门大比"
+      ],
+      "locations": [
+        "青云宗-垃圾场",
+        "青云宗-垃圾场-瓷器堆"
+      ],
+      "first_appearance": [
+        "赵三",
+        "瓷器堆"
+      ],
+      "hook": {
+        "type": "进展钩",
+        "content": "林尘发现第2块结晶，进展顺利但危机潜伏",
+        "strength": "medium"
+      },
+      "pattern": {
+        "opening": "场景铺陈",
+        "hook": "进展钩",
+        "emotion_rhythm": "平→起",
+        "info_density": "medium"
+      },
+      "ending": {
+        "time": "黄昏",
+        "location": "青云宗-垃圾场",
+        "emotion": "平静但紧张"
+      },
+      "style_score": 8.4,
+      "style_analysis": {
+        "narrative_pace": "节奏稳健，前半部分日常铺垫+环境描写，后半部分紧张感上升",
+        "emotional_arc": "平静→焦虑→希望→紧张→释然，递进合理",
+        "dialog_ratio": "约12%，对话精简有效",
+        "description_density": "环境描写到位，瓷器堆的危险描写生动",
+        "system_revelation_style": "简洁，\"持有数量 2\"的揭示简洁有力",
+        "inner_monologue": "适度内心独白，展现谨慎性格"
       }
     }
   },
