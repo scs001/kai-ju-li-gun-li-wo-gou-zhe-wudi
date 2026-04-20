@@ -36,9 +36,9 @@
     "antagonist_level": "小反派→中反派→大反派（异界首领）"
   },
   "progress": {
-    "current_chapter": 2,
-    "total_words": 2041,
-    "last_updated": "2026-04-20 22:16:24",
+    "current_chapter": 3,
+    "total_words": 4146,
+    "last_updated": "2026-04-21 02:30:00",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": [
@@ -57,8 +57,8 @@
       "bottleneck": ""
     },
     "location": {
-      "current": "青云宗-垃圾场",
-      "last_chapter": 2
+      "current": "青云宗-住处",
+      "last_chapter": 3
     },
     "golden_finger": {
       "name": "金铲铲系统",
@@ -67,7 +67,7 @@
       "skills": []
     },
     "attributes": {
-      "精神力": "100/100"
+      "精神力": "65/100"
     }
   },
   "relationships": {},
@@ -79,7 +79,9 @@
       "青云宗"
     ],
     "locations": [
-      "青云宗"
+      "青云宗",
+      "青云宗-垃圾场",
+      "青云宗-住处"
     ]
   },
   "plot_threads": {
@@ -96,6 +98,11 @@
       "chapters": "2-2",
       "report": "审查报告/第2-2章审查报告.md",
       "reviewed_at": "2026-04-20 22:16:24"
+    },
+    {
+      "chapters": "3-3",
+      "report": "审查报告/第3-3章审查报告.md",
+      "reviewed_at": "2026-04-21 02:30:00"
     }
   ],
   "chapter_meta": {
@@ -157,6 +164,51 @@
         "description_density": "简洁，聚焦系统交互和心理活动",
         "system_revelation_style": "递进式揭示，层层剥开规则，符合谨慎型主角",
         "inner_monologue": "大量内心独白，展现谨慎思考和风险评估"
+      }
+    },
+    "3": {
+      "title": "第3章 垃圾场淘宝",
+      "word_count": 2105,
+      "scenes_count": 4,
+      "review_score": 86.25,
+      "entities": [
+        "林尘",
+        "孙桐",
+        "赵四",
+        "异界结晶碎片"
+      ],
+      "locations": [
+        "青云宗-垃圾场",
+        "青云宗-住处"
+      ],
+      "first_appearance": [
+        "孙桐",
+        "赵四"
+      ],
+      "style_score": 8.6,
+      "style_analysis": {
+        "narrative_pace": "节奏稳定，危机出现后加快，对峙场景张力足",
+        "emotional_arc": "平静搜索→紧张遭遇→危机决策→胜利但隐患",
+        "dialog_ratio": "约20%，对话推动情节",
+        "description_density": "环境简洁，动作描写到位",
+        "system_revelation_style": "无系统揭示，聚焦行动",
+        "inner_monologue": "适度内心独白，展现谨慎性格和计算能力"
+      },
+      "hook": {
+        "type": "危机钩",
+        "content": "孙桐威胁：你给我等着",
+        "strength": "medium"
+      },
+      "pattern": {
+        "opening": "环境描写开场",
+        "hook": "危机钩",
+        "emotion_rhythm": "平→高→平",
+        "info_density": "medium"
+      },
+      "ending": {
+        "time": "午后",
+        "location": "青云宗-住处",
+        "emotion": "胜利但隐忧"
       }
     }
   },

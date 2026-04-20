@@ -2,3 +2,8 @@
 {"timestamp": "2026-04-20T22:07:03.412432", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 2}
 {"timestamp": "2026-04-20T22:15:14.849063", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 7}
 {"timestamp": "2026-04-20T22:20:26.568202", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 3}
+{"timestamp": "2026-04-21T00:52:27.397147", "tool_name": "index_manager:get-recent-reading-power", "success": true, "elapsed_ms": 1}
+{"timestamp": "2026-04-21T00:52:27.461000", "tool_name": "index_manager:get-debt-summary", "success": true, "elapsed_ms": 2}
+{"timestamp": "2026-04-21T00:52:27.525444", "tool_name": "index_manager:get-core-entities", "success": true, "elapsed_ms": 1}
+{"timestamp": "2026-04-21T00:52:27.589929", "tool_name": "index_manager:recent-appearances", "success": true, "elapsed_ms": 3}
+{"timestamp": "2026-04-21T02:27:53.532365", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 4}

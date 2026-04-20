@@ -1,5 +1,110 @@
 {
-  "current_task": null,
+  "current_task": {
+    "command": "webnovel-write",
+    "args": {
+      "chapter_num": 3
+    },
+    "started_at": "2026-04-21T00:50:40.243815",
+    "last_heartbeat": "2026-04-21T02:35:13.120858",
+    "status": "running",
+    "current_step": {
+      "id": "Step 6",
+      "name": "Git Backup",
+      "status": "running",
+      "started_at": "2026-04-21T02:35:13.120855",
+      "running_at": "2026-04-21T02:35:13.120855",
+      "attempt": 1,
+      "progress_note": null
+    },
+    "completed_steps": [
+      {
+        "id": "Step 1",
+        "name": "Context Agent",
+        "status": "completed",
+        "started_at": "2026-04-21T00:50:40.350015",
+        "running_at": "2026-04-21T00:50:40.350015",
+        "attempt": 1,
+        "progress_note": null,
+        "completed_at": "2026-04-21T00:54:54.698707",
+        "artifacts": {
+          "ok": true
+        }
+      },
+      {
+        "id": "Step 2A",
+        "name": "Draft Writing",
+        "status": "completed",
+        "started_at": "2026-04-21T00:54:54.788712",
+        "running_at": "2026-04-21T00:54:54.788712",
+        "attempt": 1,
+        "progress_note": null,
+        "completed_at": "2026-04-21T01:01:29.762236",
+        "artifacts": {
+          "ok": true
+        }
+      },
+      {
+        "id": "Step 3",
+        "name": "Review",
+        "status": "completed",
+        "started_at": "2026-04-21T01:01:29.850594",
+        "running_at": "2026-04-21T01:01:29.850594",
+        "attempt": 1,
+        "progress_note": null,
+        "completed_at": "2026-04-21T02:28:04.420411",
+        "artifacts": {
+          "ok": true
+        }
+      },
+      {
+        "id": "Step 4",
+        "name": "Polish",
+        "status": "completed",
+        "started_at": "2026-04-21T02:28:04.511878",
+        "running_at": "2026-04-21T02:28:04.511878",
+        "attempt": 1,
+        "progress_note": null,
+        "completed_at": "2026-04-21T02:30:18.327733",
+        "artifacts": {
+          "ok": true,
+          "anti_ai_force_check": "pass"
+        }
+      },
+      {
+        "id": "Step 5",
+        "name": "Data Agent",
+        "status": "completed",
+        "started_at": "2026-04-21T02:30:18.423907",
+        "running_at": "2026-04-21T02:30:18.423907",
+        "attempt": 1,
+        "progress_note": null,
+        "completed_at": "2026-04-21T02:35:13.031586",
+        "artifacts": {
+          "ok": true
+        }
+      }
+    ],
+    "failed_steps": [],
+    "pending_steps": [
+      "Step 1",
+      "Step 2A",
+      "Step 2B",
+      "Step 3",
+      "Step 4",
+      "Step 5",
+      "Step 6"
+    ],
+    "retry_count": 0,
+    "artifacts": {
+      "chapter_file": {},
+      "git_status": {},
+      "state_json_modified": false,
+      "entities_appeared": false,
+      "review_completed": false,
+      "ok": true,
+      "anti_ai_force_check": "pass"
+    }
+  },
   "last_stable_state": {
     "command": "webnovel-write",
     "chapter_num": 1,
