@@ -36,9 +36,9 @@
     "antagonist_level": "小反派→中反派→大反派（异界首领）"
   },
   "progress": {
-    "current_chapter": 2,
-    "total_words": 2041,
-    "last_updated": "2026-04-20 22:16:24",
+    "current_chapter": 3,
+    "total_words": 3941,
+    "last_updated": "2026-04-21",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": [
@@ -58,7 +58,7 @@
     },
     "location": {
       "current": "青云宗-垃圾场",
-      "last_chapter": 2
+      "last_chapter": 3
     },
     "golden_finger": {
       "name": "金铲铲系统",
@@ -157,6 +157,38 @@
         "description_density": "简洁，聚焦系统交互和心理活动",
         "system_revelation_style": "递进式揭示，层层剥开规则，符合谨慎型主角",
         "inner_monologue": "大量内心独白，展现谨慎思考和风险评估"
+      }
+    },
+    "3": {
+      "title": "第3章 垃圾场淘宝",
+      "word_count": 2040,
+      "scenes_count": 5,
+      "review_score": 91.3,
+      "entities": [
+        "林尘",
+        "孙平",
+        "执法弟子",
+        "周铁",
+        "金铲铲系统",
+        "异界结晶"
+      ],
+      "locations": [
+        "青云宗-垃圾场-表层区",
+        "青云宗-垃圾场-禁区边缘",
+        "青云宗-杂务处"
+      ],
+      "first_appearance": [
+        "孙平",
+        "执法弟子"
+      ],
+      "style_score": 9.1,
+      "style_analysis": {
+        "narrative_pace": "节奏稳健，开篇铺垫，中段紧张，结尾回归谨慎",
+        "emotional_arc": "平静→紧张→窃喜→紧张→决意，递进合理",
+        "dialog_ratio": "约20%，对话有效推动情节",
+        "description_density": "环境描写生动，气味、场景切换自然",
+        "system_revelation_style": "无直接系统揭示，侧重行动",
+        "inner_monologue": "适度内心独白，展现主角谨慎性格和危机意识"
       }
     }
   },
