@@ -36,9 +36,9 @@
     "antagonist_level": "小反派→中反派→大反派（异界首领）"
   },
   "progress": {
-    "current_chapter": 1,
-    "total_words": 1851,
-    "last_updated": "2026-04-20 22:05:22",
+    "current_chapter": 0,
+    "total_words": 0,
+    "last_updated": "2026-04-20 16:24:40",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": [
@@ -57,8 +57,8 @@
       "bottleneck": ""
     },
     "location": {
-      "current": "青云宗",
-      "last_chapter": 1
+      "current": "",
+      "last_chapter": 0
     },
     "golden_finger": {
       "name": "金铲铲系统",
@@ -73,59 +73,15 @@
   "disambiguation_pending": [],
   "world_settings": {
     "power_system": [],
-    "factions": [
-      "青云宗"
-    ],
-    "locations": [
-      "青云宗"
-    ]
+    "factions": [],
+    "locations": []
   },
   "plot_threads": {
     "active_threads": [],
     "foreshadowing": []
   },
-  "review_checkpoints": [
-    {
-      "chapters": "1-1",
-      "report": "审查报告/第1-1章审查报告.md",
-      "reviewed_at": "2026-04-20 17:03:12"
-    }
-  ],
-  "chapter_meta": {
-    "1": {
-      "title": "第1章 垃圾堆里的奇迹",
-      "word_count": 1851,
-      "scenes_count": 3,
-      "review_score": 85,
-      "entities": [
-        "青云宗",
-        "林尘",
-        "周铁",
-        "金铲铲系统",
-        "异界结晶",
-        "神铸结晶",
-        "淬体境"
-      ],
-      "locations": [
-        "青云宗-垃圾场"
-      ],
-      "first_appearance": [
-        "林尘",
-        "周铁",
-        "金铲铲系统",
-        "异界结晶"
-      ],
-      "style_score": 8.3,
-      "style_analysis": {
-        "narrative_pace": "开篇慢热，前30%为日常铺垫，中后段节奏加快",
-        "emotional_arc": "压抑→震惊→狂喜→焦虑，递进合理",
-        "dialog_ratio": "约15%，对话精简有效",
-        "description_density": "环境描写简洁，动作描写到位",
-        "system_revelation_style": "简洁直接，规则清晰，保留悬念",
-        "inner_monologue": "适度内心独白，展现谨慎性格"
-      }
-    }
-  },
+  "review_checkpoints": [],
+  "chapter_meta": {},
   "strand_tracker": {
     "last_quest_chapter": 0,
     "last_fire_chapter": 0,
