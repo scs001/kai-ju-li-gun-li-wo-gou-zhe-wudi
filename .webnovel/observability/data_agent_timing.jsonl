@@ -8,3 +8,4 @@
 {"timestamp": "2026-04-21T03:30:29.036119", "tool_name": "index_manager:recent-appearances", "success": true, "elapsed_ms": 1}
 {"timestamp": "2026-04-21T03:37:09.833413", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 5}
 {"timestamp": "2026-04-21T00:00:00", "chapter": 3, "A_load_context": 50, "B_entity_extract": 200, "C_disambiguation": 30, "D_state_index_write": 15, "E_summary_write": 5, "F_scene_chunking": 5, "G_rag_index": 10, "H_style_sample": 8, "I_debt_interest": 0, "TOTAL": 323}
+{"timestamp": "2026-04-21T03:40:18.746145", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 1}
