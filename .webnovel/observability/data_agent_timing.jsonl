@@ -7,3 +7,4 @@
 {"timestamp": "2026-04-21T00:52:27.525444", "tool_name": "index_manager:get-core-entities", "success": true, "elapsed_ms": 1}
 {"timestamp": "2026-04-21T00:52:27.589929", "tool_name": "index_manager:recent-appearances", "success": true, "elapsed_ms": 3}
 {"timestamp": "2026-04-21T02:27:53.532365", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 4}
+{"timestamp": "2026-04-21T02:36:08.771967", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 4}
